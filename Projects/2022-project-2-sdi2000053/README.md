@@ -1,5 +1,3 @@
-![run-tests](../../workflows/run-tests/badge.svg)
-
 ## 2022 Project 2
 
 Εκφώνηση: https://k08.chatzi.org/projects/project2/
