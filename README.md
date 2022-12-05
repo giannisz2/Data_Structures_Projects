@@ -8,3 +8,4 @@ In this repository are my projects and lab exercises of Data Structures lesson i
 They are made 4 months after I started programming so they are not entirely correct but shows my progress.
 
 Βαθμοί σε κάθε project αντίστοιχα/Grades in each project respectively: 78/100, 92/100, 48/100
+Τελικός βαθμός/ Final grade: 7.5
