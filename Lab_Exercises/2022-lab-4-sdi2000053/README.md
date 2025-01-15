@@ -5,7 +5,9 @@
 Υλοποίηση ADTPriorityQueue μέσω σωρού
 Ο κώδικας του εργαστηρίου, περιέχει (μεταξύ άλλων):
 
-modules/UsingHeap/ADTPriorityQueue.c Υλοποίηση του ADT PriorityQueue μέσω σωρού.
+modules/UsingHeap/ADTPriorityQueue.c
+
+### Υλοποίηση του ADT PriorityQueue μέσω σωρού.
 
 tests/ADTPriorityQueue_test.c Unit test για τον ADT PriorityQueue. Τρέχοντας make στο tests directory παράγεται το εκτελέσιμο UsingHeap_ADTPriorityQueue_test το οποίο εκτελεί τα unit tests χρησιμοποιώντας την παραπάνω υλοποίηση.
 
@@ -17,7 +19,7 @@ tests/ADTPriorityQueue_test.c Unit test για τον ADT PriorityQueue. Τρέ�
 
 Στη συνέχεια τροποποιήστε την, με τον αποδοτικό αλγόριθμο heapify που είδαμε στις διαλέξεις. Βεβαιωθείτε, τρέχοντας το test, ότι η νέα υλοποίηση δουλεύει σωστά. Τι πολυπλοκότητα έχει;
 
-Υλοποίηση ADTPriorityQueue μέσω ταξινομημένης λίστας
+### Υλοποίηση ADTPriorityQueue μέσω ταξινομημένης λίστας
 Δημιουργήστε μια νέα υλοποίηση του ADTPriorityQueue μέσω ταξινομημένης λίστας. Η υλοποίηση θα χρησιμοποιεί μια λίστα (ADTList) η οποία θα πρέπει να διατηρείται ταξινομημένη μετά από κάθε λειτουργία.
 
 Ένας κενός ορισμός κάθε συνάρτησης υπάρχει στο modules/UsingADTList/ADTPriorityQueue.c
