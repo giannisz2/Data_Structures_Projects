@@ -1,11 +1,10 @@
-# Data_Structures_Projects
+#Data Structures Projects and Lab Exercises (DIT)
+This repository contains my projects and lab exercises for the Data Structures course at the Department of Informatics and Telecommunications (DIT) during the Spring Semester of the 2021-2022 academic year.
 
-Σε αυτό το απωθετήριο βρίσκονται οι εργασίες μου και οι ασκήσεις εργαστηρίων στο μάθημα Δομές Δεδομένων του DIT, 
-περίοδος εαρινού εξαμήνου 2021-2022. Τις έκανα 4 μήνες αφού ξεκίνησα να προγραμματίζω οπότε δεν είναι εντελώς σωστές αλλά δείχνουν την πρόοδο
-μου σε αυτό το τρίμηνο.
+These projects and exercises were completed just four months after I began programming. While they may not be entirely correct, they represent my learning journey and the progress I made during this time.
 
-In this repository are my projects and lab exercises of Data Structures subject in DIT, of period 2021-2022 spring semester. 
-They are made 4 months after I started programming so they are not entirely correct but shows my progress.
-
-Βαθμοί σε κάθε project αντίστοιχα/Grades in each project respectively: 78/100, 92/100, 48/100
-Τελικός βαθμός/ Final grade: 7.5
+Grades for Each Project:
+Project 1: 78/100
+Project 2: 92/100
+Project 3: 48/100
+Final Grade: 7.5/10
